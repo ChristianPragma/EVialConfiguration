@@ -1,0 +1,12 @@
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\bin\Debug\net6.0\EVialConfig.Infra.Background.deps.json
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\bin\Debug\net6.0\EVialConfig.Infra.Background.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\bin\Debug\net6.0\EVialConfig.Infra.Background.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.csproj.AssemblyReference.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.AssemblyInfoInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.AssemblyInfo.cs
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.csproj.CoreCompileInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\refint\EVialConfig.Infra.Background.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\EVialConfig.Infra.Background.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Background\obj\Debug\net6.0\ref\EVialConfig.Infra.Background.dll

@@ -1,0 +1,17 @@
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Infra.Data.deps.json
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Infra.Data.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Infra.Data.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.csproj.AssemblyReference.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.AssemblyInfoInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.AssemblyInfo.cs
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\refint\EVialConfig.Infra.Data.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\ref\EVialConfig.Infra.Data.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Domain.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Domain.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.csproj.CopyComplete
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\bin\Debug\net6.0\EVialConfig.Infra.Data.runtimeconfig.json
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Infra.Data\obj\Debug\net6.0\EVialConfig.Infra.Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\bin\Debug\net6.0\EVialConfig.Domain.deps.json
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\bin\Debug\net6.0\EVialConfig.Domain.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\bin\Debug\net6.0\EVialConfig.Domain.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.csproj.AssemblyReference.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.AssemblyInfoInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.AssemblyInfo.cs
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.csproj.CoreCompileInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\refint\EVialConfig.Domain.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\EVialConfig.Domain.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Domain\obj\Debug\net6.0\ref\EVialConfig.Domain.dll

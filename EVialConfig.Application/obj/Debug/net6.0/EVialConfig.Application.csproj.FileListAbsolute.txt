@@ -1,0 +1,15 @@
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\bin\Debug\net6.0\EVialConfig.Application.deps.json
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\bin\Debug\net6.0\EVialConfig.Application.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\bin\Debug\net6.0\EVialConfig.Application.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.csproj.AssemblyReference.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.AssemblyInfoInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.AssemblyInfo.cs
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.csproj.CoreCompileInputs.cache
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\refint\EVialConfig.Application.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\ref\EVialConfig.Application.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\bin\Debug\net6.0\EVialConfig.Domain.dll
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\bin\Debug\net6.0\EVialConfig.Domain.pdb
+C:\Pragma\Formacion\PlanCrecimiento\training\EVial\EVialConfiguration\EVialConfig.Application\obj\Debug\net6.0\EVialConfig.Application.csproj.CopyComplete
